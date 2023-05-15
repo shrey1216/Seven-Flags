@@ -1,6 +1,4 @@
 //@author Shreyan Wankavala
-//112634232
-//Recitation 01
 
 public class Person {
     private int number;
